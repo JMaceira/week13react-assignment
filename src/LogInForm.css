@@ -1,0 +1,17 @@
+form {
+    text-align: center;
+    padding: 40px;
+    margin: 10em;
+    border: 1px dotted black;
+    border-radius: 10em;
+    border-width: 1rem;
+    justify-content: center;
+}
+
+h3 {
+    border: 1.5px solid rgb(25, 182, 33);
+    border-radius: 20px;
+    font-size: 30px;
+    margin: auto;
+    justify-content: center;
+}
